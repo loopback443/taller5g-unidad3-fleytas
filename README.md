@@ -3,7 +3,7 @@
 Matías Fleytas - Taller de Programación de 5.ª Generación I - Tarea Unidad III
 
 - `ejercicio1_casa.py`: dibuja una casa con DDA → `casa.png`
-- `ejercicio2_roseta.py`: rosetas con Bresenham → `roseta.png`, `roseta_12.png`, `roseta_24.png`, `roseta_36.png` (y `   como extra)
+- `ejercicio2_roseta.py`: rosetas con Bresenham → `roseta.png`, `roseta_12.png`, `roseta_24.png`, `roseta_36.png`
 
 ## Ejecutar con...
 
